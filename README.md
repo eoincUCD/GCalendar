@@ -1,7 +1,5 @@
 # GCalendar
-Create a Sankey Diagram from Google Calendar
-
-A quick project to refresh my coding skills
+Create a Sankey Diagram from Google Calendar: A quick project to refresh my coding skills
 
 GCalendar.py - Converts .ics into csv data frame
 
