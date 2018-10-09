@@ -3,4 +3,4 @@ Create a Sankey Diagram from Google Calendar: A quick project to refresh my codi
 
 GCalendar.py - Converts .ics into csv data frame
 
-Graph_db4.py - Converts csv data frame into Sankey formar for http://sankeymatic.com
+Graph_db4.py - Converts csv data frame into Sankey format for http://sankeymatic.com
